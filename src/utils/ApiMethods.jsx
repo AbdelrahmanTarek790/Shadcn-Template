@@ -1,8 +1,6 @@
 import axios from "axios"
 
-const BaseUrl2 = "https://pmsbackend.codepeak.live/api/v1"
-// const baseUrl = "https://pharmacy.codepeak.live/api"
-const baseUrl = "https://panelec.codepeak.live/api/v1"
+const BaseUrl2 = "url"
 
 //api methods
 export const getMethod = async (url, token) => {
